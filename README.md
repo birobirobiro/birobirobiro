@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Rocketseat](https://github.com/rocketseat/)
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **JavaScript, ReactJS, React Native, NodeJS**
 
 - 💬 Ask me about **Linux**
 
