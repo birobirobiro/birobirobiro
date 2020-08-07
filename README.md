@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, ReactJS, React Native, NodeJS**
 
-- 💬 Ask me about **Linux**
+- 💬 Ask me about **Linux 🐧**
 
 - 📫 How to reach me **birobirobiro.dev@gmail.com**
 
