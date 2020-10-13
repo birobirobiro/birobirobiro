@@ -17,5 +17,5 @@
 <a href="https://twitter.com/birobirobiro_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="birobirobiro_" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/joaoinacioneto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joaoinacioneto" height="30" width="30" /></a>
 <a href="https://instagram.com/birobirobiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="birobirobiro" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/infinitegeek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="infinitegeek" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/birobirobiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="infinitegeek" height="30" width="30" /></a>
 </p>
