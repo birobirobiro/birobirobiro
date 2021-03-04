@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Linux 🐧**
 
-- 📫 How to reach me **birobirobiro.dev@gmail.com**
+- 📫 How to reach me **[birobirobiro.dev](https://birobirobiro.dev)**
 
 - ⚡ Fun fact **I ❤️️ ☕**
 
