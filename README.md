@@ -2,7 +2,7 @@
 
 
 <p align="left"> 
-  🖖 Me chamo <i>João Inácio</i>, mas pode me chamar de <strong>Biro</strong>.
+  🖖 Me chamo <i>João</i>, mas pode me chamar de <strong>Biro</strong>.
 </p>
 
 <p align="left">
