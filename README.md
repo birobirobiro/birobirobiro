@@ -1,8 +1,7 @@
 
-<h1 align="left">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Biro</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o João!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birobirobiro&color=blue" alt="Profile views" /> </p>
 <img align="right" width="230em" height="150em" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
-
 
 - 🔭 I’m currently working on Rocketseat
 
@@ -10,7 +9,7 @@
 
 - 💬 Ask me about Linux 🐧
 
-- 📫 How to reach me birobirobiro.dev@gmail.com
+- 📫 How to reach me [birobirobiro.dev](https://birobirobiro.dev)
 
 - ⚡ Fun fact I ❤️️ ☕
 
@@ -29,19 +28,16 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br>
-
 ## ⚙️ &nbsp;GitHub Analytics
+<br>
 
 <p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=birobirobiro&show_icons=true&theme=nightowl" alt="biro's stats"/>
 </p>
 
-<br>
+##
 
-## ✌🏻 &nbsp;Follow Me
-
-<p align="left" style="background:blue">
+<p align="center" style="background:blue">
   <a href="https://instagram.com/birobirobiro" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-birobirobiro-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
