@@ -1,7 +1,8 @@
 
-<img align="right" height="300em" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"/>
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Biro</h1>
+<h1 align="left">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Biro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birobirobiro&color=blue" alt="Profile views" /> </p>
+<img align="right" width="230em" height="150em" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+
 
 - 🔭 I’m currently working on Rocketseat
 
