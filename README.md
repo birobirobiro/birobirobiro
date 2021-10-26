@@ -3,15 +3,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birobirobiro&color=blueviolet" alt="Profile views" /> </p>
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 
-- 🔭 I’m currently working on Rocketseat
+- 🔭  I’m currently working on [Rocketseat](https://github.com/rocketseat/)
 
-- 🌱 I’m currently learning JavaScript, ReactJS, React Native, NodeJS
+- 🌱  I’m currently learning **JavaScript, ReactJS, React Native, NodeJS**
 
-- 💬 Ask me about Linux 🐧
+- 💬  Ask me about **Linux 🐧**
 
-- 📫 How to reach me [birobirobiro.dev](https://birobirobiro.dev)
+- 🚀  How to reach me  [birobirobiro.dev](https://birobirobiro.dev)
 
-- ⚡ Fun fact I ❤️️ ☕
+- ⚡ Fun fact **I ❤️️ ☕**
 
 <br>
 
