@@ -11,7 +11,7 @@
 
 - 🚀  How to reach me  [birobirobiro.dev](https://birobirobiro.dev)
 
-- ⚡ Fun fact **I ❤️️ ☕**
+- ⚡ Fun fact: All cats are named after food
 
 <br>
 
