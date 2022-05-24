@@ -1,11 +1,9 @@
+<img align="center" src="https://i.ibb.co/NyVcfPy/github-header-image.png"/>
 
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Biro!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=birobirobiro&color=blueviolet" alt="Profile views" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=birobirobiro&color=blueviolet" alt="Profile views" /> 
 
 <img src="https://img.shields.io/twitch/status/birobirobiro?style=social" alt="Twitch Status" />
 </p>
-
-<img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 
 - 🔭  I’m currently working on [Rocketseat](https://github.com/rocketseat/)
 
