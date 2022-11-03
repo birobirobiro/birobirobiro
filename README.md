@@ -1,4 +1,4 @@
-<a href="https://birobirobiro.dev/" target="_blank"><img align="center" src="https://i.ibb.co/NyVcfPy/github-header-image.png"/><a/>
+<a href="https://birobirobiro.dev/" target="_blank"><img align="center" src="https://i.ibb.co/72jYBtr/cover.jpg"/><a/>
 
 <p align="center"> 
   <a href="https://instagram.com/birobirobiro"><img align="center" src="https://img.shields.io/badge/birobirobiro-05122A?style=flat&logo=instagram" alt="instagram"/></a>
